@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: rgba(255, 255, 255, .15);  
+    backdrop-filter: blur(5px);
+}
+
+footer {
+    width: 100%;
+}
